@@ -30,5 +30,12 @@ Use the `test` class to:
 - View all store operations in the console
 
 ---
+## 📸 Screenshots
+
+### 🛒 Buying a Paper Book
+![Buy Paper Book](screenshots/buy_book.png)
+
+ 
+
 
  
